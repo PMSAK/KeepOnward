@@ -166,9 +166,19 @@ A lot of small systems had to work together to make the game feel like an actual
 
 ---
 
-##  Running the Game
+#  Play the Game
 
-### 1. Clone the repository
+You can play the game here:
 
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+**  https://pmsak.itch.io/keep-onward**
+
+---
+
+
+#  Developer
+
+**Pathan Mohammed Sohail Abrar Khan**
+
+GitHub: https://github.com/PMSAK
+
+---
