@@ -134,7 +134,7 @@ This means the player has to react to what's happening instead of simply memoriz
 
 The game uses a simple, colorful low-poly style with a medieval/fantasy theme.
 
-The goal was to keep the visuals clean and readable while still making the game feel fun and energetic.
+The UI elements like menu button sprites and the game cover page was made using AI.
 
 ---
 
